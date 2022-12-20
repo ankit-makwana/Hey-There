@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "User 1",
+        "coordinate": {
+            "latitude": 37.430,
+            "longitude": -122.08399968221784
+        },
+        "chat": []
+    },
+    {
+        "id": 2,
+        "name": "User 2",
+        "coordinate": {
+            "latitude": 37.420,
+            "longitude": -122.084
+        },
+        "chat": []
+    },
+    {
+        "id": 3,
+        "name": "User 3",
+        "coordinate": {
+            "latitude": 37.400,
+            "longitude": -122.090
+        },
+        "chat": []
+    },
+    {
+        "id": 4,
+        "name": "User 4",
+        "coordinate": {
+            "latitude": 37.425,
+            "longitude": -122.095
+        },
+        "chat": []
+    },
+    {
+        "id": 5,
+        "name": "User 5",
+        "coordinate": {
+            "latitude": 37.435,
+            "longitude": -122.095
+        },
+        "chat": []
+    },
+    {
+        "id": 6,
+        "name": "User 6",
+        "coordinate": {
+            "latitude": 22.74,
+            "longitude": 72.44
+        },
+        "chat": []
+    }
+]
